@@ -1,0 +1,10 @@
+.ListItem {
+	padding: 10px;
+	margin: 5px 0;
+	background-color: green;
+	color: white;
+}
+
+.ListItem > p {
+	word-wrap: break-word;
+}
