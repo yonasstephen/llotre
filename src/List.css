@@ -1,0 +1,15 @@
+.List {
+	padding: 10px;
+	background-color: #2ecc71;
+	
+}
+
+.List-header {
+	font-weight: bold;
+	font-size: 16px;
+	color: white;
+}
+
+.List-content {
+	font-size: 12px;
+}
